@@ -1,3 +1,12 @@
+/*
+    João Paulo Oliveira
+    JpOliveira
+    Ciência da Computação
+    Web Developer
+    Desenvolvedor Web
+    Front End
+    UFPA
+*/
 //! === ADD HEADER STYLES ON SCROLL ===
 const headerScroll = () =>{
      const headerElement = document.querySelector('.header');
