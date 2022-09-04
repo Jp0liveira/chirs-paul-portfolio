@@ -1,4 +1,4 @@
-# Portfolio Chirs Paul example
+# Portfolio Cris Paul example
 <!--- 
     João Paulo Oliveira
     JpOliveira
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="89px;" height="30px;" alt="Badge Html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="89px;" height="30px;" alt="Badge CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="89px;" height="30px;" alt="Badge JavaScript"/>
 
-<img src="https://user-images.githubusercontent.com/106454449/188293285-70aa69dc-a925-461c-a2e6-0a9d05727061.gif" alt="gif projeto portfolio Chirs Paul, João Paulo Oliveira_Jpoliveira, UFPA">
+<img src="https://user-images.githubusercontent.com/106454449/188293285-70aa69dc-a925-461c-a2e6-0a9d05727061.gif" alt="gif projeto portfolio Cris Paul, João Paulo Oliveira_Jpoliveira, UFPA">
 <br>
 
 > Site adapted by me to study html, css and js
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## <a href="https://jp0liveira.github.io/chirs-paul-portfolio/" target="_blank">Click here to view!</a>
+## <a href="https://jp0liveira.github.io/cris-paul-portfolio/" target="_blank">Click here to view!</a>
 </div>
 <br>
 
